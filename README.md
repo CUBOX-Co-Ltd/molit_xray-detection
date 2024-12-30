@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h1 align="center">X-Ray Hazardous Object Detection</h1>
+  <h1 align="center">X-Ray Hazardous Object Detector</h1>
   <p align="center">
     <a href="https://www.cubox.ai/"><strong>CUBOX AI Lab</strong></a><sup></sup>
   <div align="center">
@@ -11,7 +11,7 @@
     <a href='https://github.com/yc4ny/X-Ray-Object-Detector'>
       <img src='https://img.shields.io/badge/GitHub-Code-black?style=flat&logo=github&logoColor=white'></a>
     <a href="" target='_blank'>
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=yc4ny.X-Ray-Object-Detector&left_color=gray&right_color=orange">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=yc4ny.X-Ray-Hazard&left_color=gray&right_color=orange">
     </a>
   </p>
 </p>
