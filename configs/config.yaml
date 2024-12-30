@@ -1,0 +1,10 @@
+# Copyright (c) CUBOX, Inc. and its affiliates.
+
+path: ./
+train: images/train
+val: images/val
+test: images/test
+
+
+nc : 67
+names: ['None', 'Gun', 'Bullet', 'Magazin', 'Slingshot', 'Speargun tip', 'Shuriken', 'Dart pin', 'Electroshock weapon', 'LAGs product', 'Ax', 'Knife-A', 'Knife-F', 'Knife-B', 'Other Knife', 'Knife-D', 'Knife blade', 'Knife-Z', 'Multipurpose knife', 'Scissors-A', 'Scissors', 'Knuckle', 'Hammer', 'Prohibited tool-D', 'Drill', 'Prohibited tool-A', 'Monkey wrench', 'Pipe wrench', 'Prohibited tool-C', 'Prohibited tool-B', 'Vise plier', 'Shovel', 'Prohibited tool-E', 'Bolt cutter', 'Saw', 'Electric saw', 'Dumbbel', 'Ice skates', 'Baton', 'Handscuffs', 'Explosive weapon-A', 'LAGs product(Plastic-A)', 'LAGs product(Plastic-B)', 'LAGs product(Plastic-C)', 'LAGs product(Plastic-D)', 'LAGs product(Glass)', 'LAGs product(Paper)', 'LAGs product(Stainless)', 'LAGs product(Vinyl)', 'LAGs product(Aluminum)', 'LAGs product(Tube)', 'Firecracker', 'Torch', 'Solid fuel', 'Lighter', 'Nunchaku', 'Exploding golf balls', 'Knife-E', 'Green onion slicer', 'Hex key(over 10cm)', 'Kettlebell', 'Kubotan', 'Arrow tip', 'Billiard ball', 'Drill bit(over 6cm)', 'Buttstock', 'Card knife']
